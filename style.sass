@@ -140,6 +140,7 @@ h3
 .portfolio
     display: grid
     grid-template-columns: repeat(auto-fit, minmax(min(300px, 600px), 1fr))
+    // grid-auto-flow: row dense
 
     &__item
         background: var(--clr-accent)
@@ -151,6 +152,7 @@ h3
     &__img 
         user-select: none
         object-fit: cover
+        width: 100%
         height: 100%
         transition: transform 750ms cubic-bezier(.5, 0, .5, 1), opacity 250ms linear
 
