@@ -176,6 +176,7 @@ h3 {
 .portfolio {
   display: -ms-grid;
   display: grid;
+  gap: 15px;
   -ms-grid-columns: (minmax(300px, 1fr))[auto-fit];
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
