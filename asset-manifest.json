@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eaebc468.chunk.css",
+    "main.js": "/static/js/main.1ea022ab.chunk.js",
+    "main.js.map": "/static/js/main.1ea022ab.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c542aba9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c542aba9.js.map",
+    "static/js/2.bd1f6457.chunk.js": "/static/js/2.bd1f6457.chunk.js",
+    "static/js/2.bd1f6457.chunk.js.map": "/static/js/2.bd1f6457.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.aa2c32ac276dc05c67c0887f634f5b21.js": "/precache-manifest.aa2c32ac276dc05c67c0887f634f5b21.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.eaebc468.chunk.css.map": "/static/css/main.eaebc468.chunk.css.map",
+    "static/js/2.bd1f6457.chunk.js.LICENSE.txt": "/static/js/2.bd1f6457.chunk.js.LICENSE.txt",
+    "static/media/crwn-mockup.png": "/static/media/crwn-mockup.6e880efa.png",
+    "static/media/lucas.jpg": "/static/media/lucas.8517c9aa.jpg",
+    "static/media/mockup-notes.png": "/static/media/mockup-notes.90cacdda.png",
+    "static/media/mytinerary.png": "/static/media/mytinerary.7cccd969.png",
+    "static/media/omnifood.png": "/static/media/omnifood.842de10a.png",
+    "static/media/ttt.png": "/static/media/ttt.32c40912.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c542aba9.js",
+    "static/js/2.bd1f6457.chunk.js",
+    "static/css/main.eaebc468.chunk.css",
+    "static/js/main.1ea022ab.chunk.js"
+  ]
+}
