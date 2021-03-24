@@ -1,0 +1,22 @@
+{
+  "compile-hero": {
+    "disable-compile-files-on-did-save-code": false,
+    "sass-output-directory": "../",
+    "generate-minified-css": true,
+    "generate-minified-html": true,
+    "scss-output-directory": "../../",
+    "scss-output-toggle": true,
+    "pug-output-directory": "../",
+    "generate-minified-html-only": true,
+    "generate-minified-css-only": true,
+    "watch": ["dev/index.pug", "dev/sass/index.scss"]
+  },
+  "cSpell.words": [
+    "Ghibli",
+    "Minimalistic",
+    "Pokeapi",
+    "aboutme",
+    "contactme",
+    "mywork"
+  ]
+}
