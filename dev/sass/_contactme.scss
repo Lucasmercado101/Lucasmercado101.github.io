@@ -42,9 +42,15 @@
 
 
 @media (max-width: 900px) {
+    .contact-link {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    
     .contact-area {
         width: 100%;
         flex-direction: column;
+        padding: 0;
         padding-top: 2rem;
 
         &__title {
